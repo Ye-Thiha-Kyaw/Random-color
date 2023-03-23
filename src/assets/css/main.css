@@ -1,0 +1,18 @@
+/* Table of contents 
+
+-- Base imports
+-- Components imports
+-- Utility imports
+
+*/
+
+/* Base imports */
+@import "tailwindcss/base";
+@import "base/base";
+
+/* Components imports */
+@import "tailwindcss/components";
+
+
+/* Utility imports */
+@import "tailwindcss/utilities";

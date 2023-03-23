@@ -1,0 +1,13 @@
+@layer base {
+    body {
+        
+        background-repeat: repeat;
+        background-position: center center;
+    }
+    .container {
+        margin-top: 5%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 30px;
+    }
+}
